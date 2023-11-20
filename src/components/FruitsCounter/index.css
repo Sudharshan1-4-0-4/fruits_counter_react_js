@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.background {
+  background-color: #ffd569;
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+.inner-container {
+  background-color: white;
+  padding: 30px;
+}
+.image {
+  height: 200px;
+  width: 300px;
+}
+.btn {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+}
+.img-container {
+  display: flex;
+  flex-direction: row;
+}
+.imgs {
+  display: flex;
+  flex-direction: column;
+}
+.cols {
+  color: #ffd569;
+}
